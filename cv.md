@@ -27,3 +27,38 @@ I like an abundance of resources for self-education in IT and a large community 
 I am sure that I can go this way and become a great Frontend developer.
 
 > A journey of a thousand miles begins with a single step!
+
+## Skills 
+* HTML5, CSS3 (in process)
+* JavaScript Basics (in process)
+* Git, GitHub (in process)
+* VS Code, IntelliJ IDEA (in process)
+* Waterfall, Agile
+
+## Code example
+```
+function multiply(a, b){
+ return a * b
+}
+```
+
+## Experience
+**Training project 'RS-School CV'**
+
+Gained skills:
+* working with Git and GitHub
+* using markdown markup
+* basic layout skills
+
+## Education
+* Ryazan State Radio Engineering University (RSREU)
+    * *Computer-aided design systems engineer*
+
+Courses:
+* [HTML/CSS](https://code-basics.com/languages/html) (in process)
+* [JavaScript](https://learn.javascript.ru/) (in process)
+* [RS School](https://github.com/rolling-scopes-school/tasks/blob/master/roadmap.md) (in process)
+
+## Language
+* Russian - native
+* English - A2 (B1 in process)
