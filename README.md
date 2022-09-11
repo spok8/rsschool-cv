@@ -1,1 +1,1 @@
-https://spok8.github.io/rsschool-cv/cv
+https://spok8.github.io/rsschool-cv/
